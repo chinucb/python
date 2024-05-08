@@ -1,2 +1,2 @@
 # python
-this is python code
+Python Project On BMI Calculator
